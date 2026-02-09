@@ -7,6 +7,9 @@ The objective is to translate raw operational data into **actionable business in
 
 The analysis is designed as a real-world **Data Analyst case study**, emphasizing data cleaning, exploratory analysis, and business-driven recommendations.
 
+📘 **View the full analysis notebook:**  
+[Zomato Market Expansion & Pricing Analysis](Zomato_Market_Expansion_Analysis.ipynb)
+
 ---
 
 ## 🧠 Business Questions Addressed
@@ -86,5 +89,13 @@ The analysis is designed as a real-world **Data Analyst case study**, emphasizin
 
 ## ▶️ How to Run This Project
 1. Clone the repository  
-2. Open the notebook:
+2. Open the notebook: Zomato_Market_Expansion_Analysis.ipynb
+3. Run all cells (no local paths required)
+
+---
+
+## 📬 Author
+**Sreeja Kukkala**  
+Aspiring Data Analyst | Python • SQL • Data Storytelling
+
 
